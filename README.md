@@ -4,11 +4,11 @@ This is a simple implementation to create [Taylor Diagrams]( https://doi.org/10.
 
 ## Installation
 
-In order to install this package:
-
+```
 git clone /https:the/webite/naive_taylor_diagram
 cd naive_taylor_diagram
 pip install .
+```
 
 
 Matplotlib and numpy are required. You can instal them by running:
