@@ -56,4 +56,4 @@ ax2.legend()
 plt.tight_layout()
 ```
 
-![plot](./images/example1.png)
+![plot](./examples/example1.png)
